@@ -1,6 +1,3 @@
-pip install yfinance
-pip install pandas
-pip install streamlit
 
 
 import streamlit as st
